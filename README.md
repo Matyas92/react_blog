@@ -5,7 +5,7 @@ Minimalist App. Create and Delete a blog post using React.js with Fetch API. Sty
 # Technologies
 
 - Used React.js, useNavigate, useParams, useState,useEffect were utilized.
-- Also used routes, props, components, forms, 'handlig events'.
+- Also used React Router, props, components, forms, 'handlig events'.
 - Installed Tailwind to style the UI  (https://tailwindcss.com/docs/guides/create-react-app)
 - In data folder db.json was installed as used in the terminal: npx json-server --watch data/db.json --port 8000
 
