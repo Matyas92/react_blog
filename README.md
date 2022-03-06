@@ -20,9 +20,9 @@ Minimalist App. Create and Delete a blog post using React.js with Fetch API. Sty
   ## Image of the app ##
 
 ![This is an image](https://github.com/Matyas92/pic/blob/main/blog1.png)
-
+- 
 ![This is an image](https://github.com/Matyas92/pic/blob/main/blog2.png)
-
+-
 ![This is an image](https://github.com/Matyas92/pic/blob/main/blog4.png)
 
 #### Fetch API crated with the help of Net Ninja Modern React
